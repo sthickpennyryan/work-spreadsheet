@@ -7,7 +7,7 @@ Iteration 1 consists of the basic premise of what the end product wants to be:
   * General information needed for work as well as some formulas to help with tracking
   * Notes on how things work in case of updating or changing
   * Spare spreadsheet as current one is only set up for 2000 rows. Current equiptment is slow and crashes on occasion.
-    - previous spreadsheet got worse past around 2500 rows so wished to prevent issues and enable someone to
-    - make a new spreadsheet in a different document, without assistance, should they begin to have issues
+    - previous spreadsheet's performance decreased significantly past around 2500 rows so wished to prevent issues and enable someone to
+      make a new spreadsheet in a different document, without assistance, should they begin to have issues
   * Tracked figures of letters typed and total length of letters typed per day
   * Page to add letters for printing in the future
