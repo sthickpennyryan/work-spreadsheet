@@ -11,3 +11,11 @@ Iteration 1 consists of the basic premise of what the end product wants to be:
       make a new spreadsheet in a different document, without assistance, should they begin to have issues
   * Tracked figures of letters typed and total length of letters typed per day
   * Page to add letters for printing in the future
+
+
+Iteration 2:
+* Fixed the table to match previously recorded data that we will be swapping from, (switched the position of clinic code to the left of clinic date) resulting in easier transfer of information for printing		
+* Extended column widths to mimic potential name lengths as well as other columns to more accurately reflect data lengths
+* Additional columns added to calculate how many days from creation to authorisation of letters - enabling future analytics 
+
+
