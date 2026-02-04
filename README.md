@@ -19,3 +19,8 @@ Iteration 2:
 * Additional columns added to calculate how many days from creation to authorisation of letters - enabling future analytics 
 
 
+Iteration 3:
+* Added additional tracking tables to cover tracking on the weekend. 3 options were given, weekdays only (current work pattern), weekdays and weekends, weekends only. This enables full tracking for anyone with
+a different working pattern or doing optional overtime
+* Formatted the printing page for aesthetics
+
